@@ -1,0 +1,20 @@
+[package]
+name = "bloomin"
+version = "0.1.0-alpha.1"
+edition = "2021"
+authors = ["Austin Poor <code@austinpoor.com>"]
+description = "A basic bloom filter library written in Rust."
+homepage = "https://github.com/a-poor/bloomin"
+documentation = "https://docs.rs/bloomin"
+readme = "README.md"
+repository = "https://github.com/a-poor/bloomin"
+license = "MIT"
+keywords = ["bloom", "filter", "data-structures"]
+categories = ["data-structures"]
+publish = true
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
